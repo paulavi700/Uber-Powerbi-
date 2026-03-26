@@ -134,4 +134,4 @@ Built as part of a data analytics portfolio project to demonstrate real-world Po
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/avipriya-paul-4897a9208/)
 
 ---
-https://github.com/paulavi700/Uber-Powerbi-/blob/main/Screenshot%202026-03-26%20233142.png
+![Dashboard Preview].(https://github.com/paulavi700/Uber-Powerbi-/blob/main/Screenshot%202026-03-26%20233142.png)
